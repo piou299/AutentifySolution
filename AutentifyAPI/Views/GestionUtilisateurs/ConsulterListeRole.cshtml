@@ -1,0 +1,70 @@
+﻿
+@model IEnumerable<AutentifyAPI.Models.Role>
+@{
+    ViewData["Title"] = "Rôle";
+}
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Liste des Rôles</li>
+    </ol>
+</nav>
+
+<div class="row" style="margin-left:450px;">
+    <div class="fa-hover col-md-2 col-sm-4 ">
+        <div class="form-group">
+            <span style="font-size:60px;"> <a asp-controller="GestionUtilisateurs" asp-action="EnregistrerRole"><i class="fa fa-plus-circle"></i> </a></span>
+        </div>
+    </div>
+
+</div>
+<div class="container">
+    @*<h3>LISTE DES LANGUES</h3>*@
+    <hr>
+
+    <table id="datatable" class="table table-sm table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Libelle</th>
+                <th>...</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @{
+                int i = 0;
+                foreach (var item in Model)
+                {
+
+                    <tr>
+                        <td>
+                            <span>@(++i)</span>
+                        </td>
+                        <td>
+                            @item.Libelle
+                        </td>
+                        <td>
+                                <a href="~/GestionUtilisateurs/ModifierRole/@item.RoleId">
+                                    <span style="color:red;" class="glyphicon glyphicon-pencil"></span>
+                                </a>
+                            </td>
+                        <td>.</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

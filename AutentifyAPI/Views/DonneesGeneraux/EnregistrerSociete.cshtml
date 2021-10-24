@@ -1,0 +1,106 @@
+﻿@model AutentifyAPI.ViewModels.SocieteVM
+@{
+    ViewData["Title"] = "Societé";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .form-group {
+        margin-bottom: 5px;
+       /* padding-left: 50px;*/
+    }
+</style>
+
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="Home/Index">Accueil</a></li>
+        <li class="breadcrumb-item"><a asp-controller="DonneesGeneraux" asp-action="ConsulterListeSociete">Gesion des Sociétes</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Ajouter </li>
+    </ol>
+</nav>
+
+<div class="row">
+
+    <div class="col-lg-12">
+
+        @using (Html.BeginForm("EnregistrerSociete", "DonneesGeneraux", FormMethod.Post, new { @class = "col-lg-12", enctype = "multipart/form-data" }))
+        {
+
+
+            <div class="row" style="margin-top:1em">
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Nom) <span class=" fa fa-industry" aria-hidden="true">*</span>
+                        @Html.TextBoxFor(Model => Model.Nom, new { @class = "form-control", required = "required" })
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Sigle)  <span class=" fa fa-map-signs" aria-hidden="true">.</span>
+                        @Html.TextBoxFor(Model => Model.Sigle, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Adresse)  <span class=" fa fa-location-arrow" aria-hidden="true">.</span>
+                        @Html.TextBoxFor(Model => Model.Adresse, new { @class = "form-control" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Email) <span class=" fa fa-envelope" aria-hidden="true">*</span>
+                        @Html.TextBoxFor(Model => Model.Email, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Telephone) <span class="fa fa-phone" aria-hidden="true">*</span>
+                        @Html.TextBoxFor(Model => Model.Telephone, new { @class = "form-control", Value = "yo" })
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Logo) <span class="fa fa-soccer-ball-o">*</span>
+                        @Html.TextBoxFor(Model => Model.Logo, new { @class = "form-control", Type = "file" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" style="margin-top:2em;">
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-outline-primary">
+                            <span><i class="fa fa-check-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="reset" class="btn btn-outline-primary">
+                            <span><i class="fa fa-times-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+
+        }
+    </div>
+
+</div>
+
+@*<style>
+    .fa-check-circle-o {
+        color: #2da5d5;
+    }
+
+    .fa-times-circle-o {
+        color: #d81212;
+    }
+</style>*@
+
+
+

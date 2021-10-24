@@ -1,0 +1,122 @@
+﻿@model AutentifyAPI.Models.Partenaire
+@{
+    ViewData["Title"] = "Enregistrer un Partenaire";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .form-group {
+        margin-bottom: 5px;
+        padding-left: 50px;
+    }
+</style>
+
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item"><a asp-controller="DonneesGeneraux" asp-action="ListePartenaire">Liste des Partenaires</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Ajouter </li>
+    </ol>
+</nav>
+
+<div class="row">
+
+    <div class="col-lg-12">
+        <form method="post" asp-controller="DonneesGeneraux" asp-action="Addpartenaire">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="TypePartenaireId"></label> <span class="fa fa-language">*</span>
+                        <select asp-for="TypePartenaireId" class="form-control form-control-sm">
+                            @{
+                                foreach (TypePartenaire value in ViewBag.TypePartenaire)
+                                {
+                                    <option value="@value.TypePartenaireId">@value.Libelle</option>
+                                }
+                            }
+                        </select>
+                        <span class="text-danger" asp-validation-for="TypePartenaireId"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Adresse"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Adresse"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Adresse"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Email"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Email"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Email"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Nom"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Nom"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Nom"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Telephone"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Telephone"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Telephone"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="PaysId"></label> <span class="fa fa-language">*</span>
+                        <select asp-for="PaysId" class="form-control form-control-sm">
+                            @{
+                                foreach (Pays value in ViewBag.Pays)
+                                {
+                                    <option value="@value.PaysId">@value.NomPays</option>
+                                }
+                            }
+                        </select>
+                        <span class="text-danger" asp-validation-for="PaysId"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:2em;">
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-outline-primary">
+                            <span><i class="fa fa-check-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="reset" class="btn btn-outline-primary">
+                            <span><i class="fa fa-times-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+
+    </div>
+
+</div>
+
+<style>
+    .fa-check-circle-o {
+        color: #2da5d5;
+    }
+
+    .fa-times-circle-o {
+        color: #d81212;
+    }
+</style>
+
+
+

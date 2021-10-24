@@ -1,0 +1,115 @@
+﻿@model AutentifyAPI.Models.Exercice
+@{
+    ViewData["Title"] = "Enregistrer un exercice";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .form-group {
+        margin-bottom: 5px;
+        padding-left: 50px;
+    }
+</style>
+
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item"><a asp-controller="DonneesGeneraux" asp-action="ListeExercice">Liste des exercices</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Ajouter </li>
+    </ol>
+</nav>
+
+<div class="row">
+
+    <div class="col-lg-12">
+        <form method="post" asp-controller="DonneesGeneraux" asp-action="AddExercices">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="AgenceId"></label> <span class="fa fa-language">*</span>
+                        <select asp-for="AgenceId" class="form-control form-control-sm">
+                            @{
+                                foreach (Agence value in ViewBag.Agence)
+                                {
+                                    <option value="@value.AgenceId">@value.Libelle</option>
+                                }
+                            }
+                        </select>
+                        <span class="text-danger" asp-validation-for="AgenceId"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="DateDebut"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="DateDebut"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="DateDebut"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="DateFin"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="DateFin"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="DateFin"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Nom"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Nom"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Nom"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Observation"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Observation"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Observation"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="TauxTVA"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="TauxTVA"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="TauxTVA"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:2em;">
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-outline-primary">
+                            <span><i class="fa fa-check-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="reset" class="btn btn-outline-primary">
+                            <span><i class="fa fa-times-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+
+    </div>
+
+</div>
+
+<style>
+    .fa-check-circle-o {
+        color: #2da5d5;
+    }
+
+    .fa-times-circle-o {
+        color: #d81212;
+    }
+</style>
+
+
+

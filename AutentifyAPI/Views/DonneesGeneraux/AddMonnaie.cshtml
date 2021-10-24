@@ -1,0 +1,92 @@
+﻿@model AutentifyAPI.Models.Monnaie
+@{
+    ViewData["Title"] = "Enregistrer une monnaie";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .form-group {
+        margin-bottom: 5px;
+        padding-left: 50px;
+    }
+</style>
+
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item"><a asp-controller="DonneesGeneraux" asp-action="ListeMonnaie">Liste des monnaies</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Ajouter </li>
+    </ol>
+</nav>
+
+<div class="row">
+
+    <div class="col-lg-12">
+        <form method="post" asp-controller="DonneesGeneraux" asp-action="AddMonnaie">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Nom"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Nom"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Nom"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Parite"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Parite"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Parite"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Reference"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Reference"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Reference"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Suffixe"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="Suffixe"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="Suffixe"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:2em;">
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-outline-primary">
+                            <span><i class="fa fa-check-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="reset" class="btn btn-outline-primary">
+                            <span><i class="fa fa-times-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+
+    </div>
+
+</div>
+
+<style>
+    .fa-check-circle-o {
+        color: #2da5d5;
+    }
+
+    .fa-times-circle-o {
+        color: #d81212;
+    }
+</style>
+
+
+

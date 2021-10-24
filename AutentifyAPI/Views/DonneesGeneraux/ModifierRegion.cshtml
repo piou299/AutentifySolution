@@ -1,0 +1,73 @@
+﻿@model AutentifyAPI.Models.Region
+@{
+    ViewData["Title"] = "Enregistrer une Region";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .form-group {
+        margin-bottom: 5px;
+        /* margin-left: 50px;*/
+        padding-left: 50px;
+    }
+</style>
+
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item"><a asp-controller="DonneesGeneraux" asp-action="ConsulterListeRegion">Liste des Régions</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Modifier </li>
+    </ol>
+</nav>
+
+<div class="row">
+
+    <div class="col-lg-12">
+
+        @using (Html.BeginForm("ModifierRegion", "DonneesGeneraux", FormMethod.Post, new { @class = "col-lg-12" }))
+        {
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Nom) <span class="fa fa-registered">*</span>
+                        @Html.TextBoxFor(Model => Model.Nom, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label for="select" style="width:100%">Liste des pays <span class="requiredInput">*</span> </label>
+                        <select class="form-control" asp-for="PaysId">
+                            @foreach (var item in (List<AutentifyAPI.Models.Pays>)ViewBag.liste)
+                            {
+                                <option value="@item.PaysId">@item.NomPays</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:2em;">
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-outline-primary">
+                            <span><i class="fa fa-check-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="reset" class="btn btn-outline-primary">
+                            <span><i class="fa fa-times-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+
+        }
+    </div>
+
+</div>
+
+
+

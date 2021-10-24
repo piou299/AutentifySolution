@@ -1,0 +1,61 @@
+﻿
+@model IEnumerable<AutentifyAPI.Models.TypePartenaire>
+@{
+    ViewData["Title"] = "Type de partenaire";
+}
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Liste des types de partenaires</li>
+    </ol>
+</nav>
+<div class="row" style="margin-left:450px;">
+    <div class="fa-hover col-md-2 col-sm-4 ">
+        <div class="form-group">
+            <span style="font-size:60px;"> <a asp-controller="DonneesGeneraux" asp-action="AddTypePartenaire"><i class="fa fa-plus-circle"></i> </a></span>
+        </div>
+    </div>
+
+</div>
+<div class="container">
+    <h3>LISTE DES TYPES DE PARTENAIRES</h3>
+    <hr>
+
+    <table id="datatable" class="table table-sm table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Libellé</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int i = 0;
+                foreach (var type in Model)
+                {
+
+                    <tr>
+                        <td>
+                            <span>@(++i)</span>
+                        </td>
+                        <td>
+                            @type.Libelle
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

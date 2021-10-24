@@ -1,0 +1,66 @@
+﻿
+@model IEnumerable<AutentifyAPI.Models.Pays>
+@{
+    ViewData["Title"] = "Pays";
+}
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Liste des pays</li>
+    </ol>
+</nav>
+<div class="container">
+    <h3>LISTE DES PAYS</h3>
+    <hr>
+
+    <table id="datatable" class="table table-sm table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Code</th>
+                <th>Indicatif</th>
+                <th>Nom du pays</th>
+                <th>Logo</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @{
+                int i = 0;
+                foreach (var pays in Model )
+                {
+
+                    <tr>
+                        <td>
+                            <span>@(++i)</span>
+                        </td>
+                        <td>
+                            @pays.Code
+                        </td>
+                        <td>
+                            @pays.Indicatif
+                        </td>
+                        <td>
+                            @pays.NomPays
+                        <td>
+                            @pays.Logo
+                        </td>
+                        
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

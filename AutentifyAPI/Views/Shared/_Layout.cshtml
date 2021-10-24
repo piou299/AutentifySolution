@@ -1,0 +1,255 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"] - LayUp</title>
+    <link href="~/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/assets/LayUp/css/custom.min.css" rel="stylesheet">
+    <link href="~/assets/bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet">
+    <link href="~/assets/bootstrap/css/responsive.bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/assets/bootstrap/css/bootstrap-select.min.css">
+
+    <link href="~/assets/LayUp/css/pnotify.css" rel="stylesheet" />
+    <link href="~/assets/LayUp/css/pnotify.buttons.css" rel="stylesheet" />
+    <link href="~/assets/LayUp/css/pnotify.nonblock.css" rel="stylesheet" />
+</head>
+
+<body class="nav-md">
+    <div class="container body">
+        <div class="main_container">
+            <div class="col-md-3 left_col">
+                <div class="left_col scroll-view">
+                    <div class="navbar nav_title" style="border: 0;">
+                        <a href="~/Home/Index" class="site_title"><i class="fa fa-lock"></i> <span>Authentify !!!</span></a>
+                        @*<img style="display: block;margin: 0px auto;width:50px;" src="~/assets/LayUp/images/LoginBackground.jpg" />*@
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="profile clearfix">
+                        <hr>
+                        <div class="profile_pic">
+                            <img src="~/assets/LayUp/images/user.jpg" alt="Utilisateur connecté" srcset="" class="img-circle" width="70" height="70">
+                        </div>
+                        <div class="profile_info">
+                            <span>Bienvenu,</span>
+                            <h2>Leonnel</h2>
+                        </div>
+                    </div>
+
+                    <hr />
+                    <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+                        <div class="menu_section">
+                            <h2>&nbsp ACCUEIL</h2>
+                            <ul class="nav side-menu">
+                                <li>
+                                    <a>
+                                        <i class="fa fa-industry"></i> PARAMETRES <span class="fa fa-chevron-down"></span>
+                                    </a>
+                                    <ul class="nav child_menu">
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ConsulterListepays"><i class="fa fa-drupal"></i> Pays </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ConsulterListeRegion"><i class="fa fa-registered"></i> Région </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ConsulterListeLangue"><i class="fa fa-language"></i> Langue </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ConsulterListeVille"><i class="fa fa-drupal"></i> Ville/Village </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ConsulterListeSociete"><i class="fa fa-industry"></i> Société </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ConsulterListeAgence"><i class="fa fa-database"></i> Agence </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ListePeriode"><i class="fa fa-database"></i> Périodes </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ListeExercice"><i class="fa fa-database"></i> Exercices </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ListeMonnaie"><i class="fa fa-database"></i> Monnaie </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ListePartenaire"><i class="fa fa-database"></i> Partenaires </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="DonneesGeneraux" asp-action="ListeTypePartenaire"><i class="fa fa-database"></i> Types de partenaire </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a>
+                                        <i class="fa fa-lock"></i> SECURITE <span class="fa fa-chevron-down"></span>
+                                    </a>
+                                    <ul class="nav child_menu">
+                                        <li>
+                                            <a asp-controller="GestionUtilisateurs" asp-action="EnregistrerUtilisateur"><i class="fa fa-user"></i> Utilisateurs </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="GestionUtilisateurs" asp-action="ConsulterListeRole"><i class="fa fa-tasks"></i> Rôles </a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="Fournisseur" asp-action="AddFournisseur"><i class="fa fa-history"></i> Historique de connexion </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="sidebar-footer hidden-small">
+                        <a data-toggle="tooltip" data-placement="top" title="Paramètres">
+                            <span class="fa fa-cogs" aria-hidden="true"></span>
+                        </a>
+                        <a data-toggle="tooltip" data-placement="top" title="Support">
+                            <span class="fa fa-support" aria-hidden="true"></span>
+                        </a>
+                        <a data-toggle="tooltip" data-placement="top" title="Yo">
+                            <span class="fa fa-file-powerpoint-o" aria-hidden="true"></span>
+                        </a>
+                        <a asp-area="" asp-controller="GestionUtilisateurs" asp-action="Authentification" data-toggle="tooltip" data-placement="top" title="Déconnexion">
+                            <span class="fa fa-power-off" aria-hidden="true"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="top_nav">
+                <div class="nav_menu">
+                    <div class="nav toggle">
+                        <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                    </div>
+                    <nav class="nav navbar-nav">
+
+                        <ul class=" navbar-right">
+                            <li class="nav-item dropdown open" style="padding-left: 15px;">
+                                <a href="javascript:;" class="user-profile dropdown-toggle" aria-haspopup="true"
+                                   id="navbarDropdown" data-toggle="dropdown" aria-expanded="false">
+                                    <img src="~/assets/LayUp/images/user.jpg" /> Leonnel
+                                </a>
+                                <div class="dropdown-menu dropdown-usermenu pull-right"
+                                     aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="javascript:;">
+                                        <span class="fa fa-user pull-right"></span>
+                                        <span>Profil</span>
+                                    </a>
+                                    <a class="dropdown-item" href="javascript:;">
+                                        <span class="fa fa-info-circle pull-right"></span>
+                                        <span>Aide & Support</span>
+                                    </a>
+                                    <a class="dropdown-item" href="javascript:;">
+                                        <span class="fa fa-cogs pull-right"></span>
+                                        <span>Paramètres</span>
+                                    </a>
+
+
+                                    <a asp-controller="GestionUtilisateurs" asp-action="Authentification" class="dropdown-item">
+                                        <i class="fa fa-sign-out pull-right"></i>
+                                        Déconnexion
+                                    </a>
+
+                                </div>
+                            </li>
+                            <li class="nav-item dropdown open" style="padding-left: 15px;">
+                                <a href="javascript:;" class="user-profile dropdown-toggle" aria-haspopup="true"
+                                   id="navbarDropdown" data-toggle="dropdown" aria-expanded="false">
+                                    <img src="~/assets/flags/FR.png" alt="">Langues
+                                </a>
+                                <div class="dropdown-menu dropdown-usermenu pull-right"
+                                     aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="javascript:;">
+                                        <img src="~/assets/flags/FR.png" alt="">
+                                        <span>Français</span>
+                                    </a>
+                                    <a class="dropdown-item" href="javascript:;">
+                                        <img src="~/assets/flags/GB.png" alt="">
+                                        <span>Anglais</span>
+                                    </a>
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="right_col" role="main">
+                @RenderBody()
+            </div>
+            <footer>
+                <div class="text-center">
+                   By SECEL &copy; 2021
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="~/assets/jquery/jquery.min.js"></script>
+    <script src="~/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/LayUp/js/custom.min.js"></script>
+    <script src="~/assets/jquery/jquery.dataTables.min.js"></script>
+    <script src="~/assets/jquery/dataTables.bootstrap.min.js"></script>
+    <script src="~/assets/jquery/dataTables.responsive.min.js"></script>
+    <script src="~/assets/jquery/responsive.bootstrap.js"></script>
+    <script src="~/assets/jquery/jquery.smartWizard.js"></script>
+    <script src="~/assets/bootstrap/js/bootstrap-select.min.js"></script>
+
+    <script src="~/assets/jquery/jquery-validate/jquery.validate.js"></script>
+    <script src="~/assets/jquery/jquery-validate/additional-methods.js"></script>
+    <script src="~/assets/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+    <script src="~/assets/LayUp/js/pnotify.js"></script>
+    <script src="~/assets/LayUp/js/pnotify.buttons.js"></script>
+    <script src="~/assets/LayUp/js/pnotify.nonblock.js"></script>
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>
+
+
+
+
+
+
+<style>
+    .navbar li {
+        list-style-type: none;
+    }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

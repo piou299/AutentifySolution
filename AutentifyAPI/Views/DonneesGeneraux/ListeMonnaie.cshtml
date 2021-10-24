@@ -1,0 +1,73 @@
+﻿
+@model IEnumerable<AutentifyAPI.Models.Monnaie>
+@{
+    ViewData["Title"] = "Monnaie";
+}
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Liste des monnaie</li>
+    </ol>
+</nav>
+<div class="row" style="margin-left:450px;">
+    <div class="fa-hover col-md-2 col-sm-4 ">
+        <div class="form-group">
+            <span style="font-size:60px;"> <a asp-controller="DonneesGeneraux" asp-action="AddMonnaie"><i class="fa fa-plus-circle"></i> </a></span>
+        </div>
+    </div>
+
+</div>
+<div class="container">
+    <h3>LISTE DES MONNAIES</h3>
+    <hr>
+
+    <table id="datatable" class="table table-sm table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nom</th>
+                <th>Parité</th>
+                <th>Reférence</th>
+                <th>Suffixe</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int i = 0;
+                foreach (var monnaie in Model)
+                {
+
+                    <tr>
+                        <td>
+                            <span>@(++i)</span>
+                        </td>
+                        <td>
+                            @monnaie.Nom
+                        </td>
+                        <td>
+                            @monnaie.Parite
+                        </td>
+                        <td>
+                            @monnaie.Reference
+                        <td>
+                            @monnaie.Suffixe
+                        </td>
+
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

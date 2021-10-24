@@ -1,0 +1,99 @@
+﻿@model AutentifyAPI.Models.Periode
+@{
+    ViewData["Title"] = "Enregistrer une période";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .form-group {
+        margin-bottom: 5px;
+        padding-left: 50px;
+    }
+</style>
+
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item"><a asp-controller="DonneesGeneraux" asp-action="ListePeriode">Liste des périodes</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Ajouter </li>
+    </ol>
+</nav>
+
+<div class="row">
+
+    <div class="col-lg-12">
+        <form method="post" asp-controller="DonneesGeneraux" asp-action="AddPeriode">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="ExerciceId"></label> <span class="fa fa-language">*</span>
+                        <select asp-for="ExerciceId" class="form-control form-control-sm">
+                            @{
+                                foreach (Exercice value in ViewBag.Exercice)
+                                {
+                                    <option value="@value.ExerciceId">@value.Nom (@value.DateDebut - @value.DateFin)</option>
+                                }
+                            }
+                        </select>
+                        <span class="text-danger" asp-validation-for="ExerciceId"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="DateDebut"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="DateDebut"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="DateDebut"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="DateFin"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="DateFin"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="DateFin"></span>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="NumeroMois"></label> <span class="fa fa-language">*</span>
+                        <input asp-for="NumeroMois"  class="form-control" />
+                        <span class="text-danger" asp-validation-for="NumeroMois"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:2em;">
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-outline-primary">
+                            <span><i class="fa fa-check-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="reset" class="btn btn-outline-primary">
+                            <span><i class="fa fa-times-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+
+    </div>
+
+</div>
+
+<style>
+    .fa-check-circle-o {
+        color: #2da5d5;
+    }
+
+    .fa-times-circle-o {
+        color: #d81212;
+    }
+</style>
+
+
+

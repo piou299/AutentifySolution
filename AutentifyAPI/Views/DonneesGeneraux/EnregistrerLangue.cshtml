@@ -1,0 +1,80 @@
+﻿@model AutentifyAPI.ViewModels.LangueVM
+@{
+    ViewData["Title"] = "Enregistrer une Region";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .form-group {
+        margin-bottom: 5px;
+        /* margin-left: 50px;*/
+        padding-left: 50px;
+    }
+</style>
+
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+        <li class="breadcrumb-item"><a asp-controller="DonneesGeneraux" asp-action="ConsulterListeLangue">Liste des Langues</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Ajouter </li>
+    </ol>
+</nav>
+
+<div class="row">
+
+    <div class="col-lg-12">
+        @using (Html.BeginForm("EnregistrerLangue", "DonneesGeneraux", FormMethod.Post, new { @class = "col-lg-12", enctype = "multipart/form-data" }))
+        {
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Libelle) <span class="fa fa-language">*</span>
+                        @Html.TextBoxFor(Model => Model.Libelle, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        <label asp-for="Icone">
+                            <span class="fa fa-user-md" aria-hidden="true"></span>
+                            Drapeau<span class="text-primary">*</span>
+                        </label>
+                        <input type="file" asp-for="Icone" style="heigh:20px;" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:2em;">
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-outline-primary">
+                            <span><i class="fa fa-check-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="reset" class="btn btn-outline-primary">
+                            <span><i class="fa fa-times-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+
+        }
+    </div>
+
+</div>
+
+<style>
+    .fa-check-circle-o {
+        color: #2da5d5;
+    }
+
+    .fa-times-circle-o {
+        color: #d81212;
+    }
+</style>
+
+
+

@@ -1,0 +1,51 @@
+﻿
+@{
+
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> SignUp and Login</title>
+    <link href="~/assets/autentification/css/authentification.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div class="container" id="container">
+
+        <div class="overlay-container">
+            <img src="~/assets/autentification/images/LogoSecelBlanc.png" style="margin-top: 30%;" alt="" />
+            <br />
+                  <h4 style="color:white; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><i class="fa fa-lock">&nbsp;&nbsp;</i>Authentify ERP</h4>
+                  
+        </div>
+        <div class="form-container sign-in-container">
+            <form action="#">
+                <h1 style="padding-bottom: 15px"><i class="fa fa-lock"></i> Connexion</h1>
+                <input type="email" name="email" placeholder="Login">
+                <input type="password" name="password" placeholder="Mot de passe">
+                <button style="margin-top: 10px"> SE CONNECTER</button>
+                <h5> <a href="~/GestionUtilisateurs/MotDePasseOublier" class="ghost" id="signUp" style="color: #d81212;">Mot de passe oublier ?</a></h5>
+                <br /><br />
+                <br />
+                      <div class="separator">
+                          <p class="change_link">
+                              <hr />
+                              <br /><br />
+                              Vous n’avez pas de compte  ?
+                              <a href="#signup" class="to_register"> Contactez l'administrateur </a>
+                          </p>
+                          
+                      </div>
+              
+            </form>
+ 
+        </div>
+       
+    </div>
+</body>
+
+</html>

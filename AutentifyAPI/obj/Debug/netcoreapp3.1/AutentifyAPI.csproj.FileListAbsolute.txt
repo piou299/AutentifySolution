@@ -1,0 +1,636 @@
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.exe
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.deps.json
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.runtimeconfig.json
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.runtimeconfig.dev.json
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.pdb
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.Views.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.Views.pdb
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csprojAssemblyReference.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.AssemblyInfoInputs.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.AssemblyInfo.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csproj.CoreCompileInputs.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorAssemblyInfo.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorAssemblyInfo.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AutentifyAPI.StaticWebAssets.Manifest.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AutentifyAPI.StaticWebAssets.xml
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AutentifyAPI.styles.css
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.TagHelpers.input.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.TagHelpers.output.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorCoreGenerate.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorTargetAssemblyInfo.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.Views.pdb
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csproj.CopyComplete
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.dll
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.pdb
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.genruntimeconfig.cache
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\Authentification.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\Details.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\MotDePasseOublier.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\CreerUtilisateur.cshtml.g.cs
+F:\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.dll
+F:\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.pdb
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.AssemblyInfoInputs.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.AssemblyInfo.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csproj.CoreCompileInputs.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorAssemblyInfo.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorAssemblyInfo.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.TagHelpers.input.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.TagHelpers.output.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorCoreGenerate.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorTargetAssemblyInfo.cs
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.pdb
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.exe
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.deps.json
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.runtimeconfig.json
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.runtimeconfig.dev.json
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.pdb
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.Views.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.Views.pdb
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.Views.pdb
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csproj.CopyComplete
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AutentifyAPI.StaticWebAssets.Manifest.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AutentifyAPI.StaticWebAssets.xml
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.genruntimeconfig.cache
+C:\Users\Users\Source\Repos\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csprojAssemblyReference.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.exe
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.deps.json
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.runtimeconfig.json
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.runtimeconfig.dev.json
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.pdb
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.Views.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.Views.pdb
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.AssemblyInfoInputs.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.AssemblyInfo.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csproj.CoreCompileInputs.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorAssemblyInfo.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorAssemblyInfo.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AutentifyAPI.StaticWebAssets.Manifest.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AutentifyAPI.StaticWebAssets.xml
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AutentifyAPI.styles.css
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.TagHelpers.input.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.TagHelpers.output.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorCoreGenerate.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListepays.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeRegion.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerLangue.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerRegion.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ModifierRegion.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\Authentification.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\MotDePasseOublier.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorTargetAssemblyInfo.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.Views.pdb
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csproj.CopyComplete
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.dll
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.pdb
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.genruntimeconfig.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeLangue.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csprojAssemblyReference.cache
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerVille.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeVille.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ModifierVille.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeSociete.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerSociete.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ModifierSociete.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeAgence.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerAgence.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ModifierAgence.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.pdb
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\libman.json
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.exe
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.deps.json
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.runtimeconfig.json
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.runtimeconfig.dev.json
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.pdb
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.Views.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\AutentifyAPI.Views.pdb
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csprojAssemblyReference.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.AssemblyInfoInputs.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.AssemblyInfo.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csproj.CoreCompileInputs.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorAssemblyInfo.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorAssemblyInfo.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AutentifyAPI.StaticWebAssets.Manifest.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AutentifyAPI.StaticWebAssets.xml
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AutentifyAPI.styles.css
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.TagHelpers.input.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.TagHelpers.output.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorCoreGenerate.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeAgence.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeLangue.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListepays.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeRegion.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeSociete.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ConsulterListeVille.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerAgence.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerLangue.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerRegion.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerSociete.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\EnregistrerVille.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ModifierAgence.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ModifierRegion.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ModifierSociete.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ModifierVille.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\Authentification.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\CreerUtilisateur.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\Details.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\MotDePasseOublier.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorTargetAssemblyInfo.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.RazorTargetAssemblyInfo.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.Views.pdb
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.csproj.CopyComplete
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\AutentifyAPI.genruntimeconfig.cache
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\AddExercices.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\AddMonnaie.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\Addpartenaire.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\AddPeriode.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\AddTypePartenaire.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListeExercice.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListeMonnaie.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListePartenaire.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListePeriode.cshtml.g.cs
+E:\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListeTypePartenaire.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\AddExercices.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\AddMonnaie.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\Addpartenaire.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\AddPeriode.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\AddTypePartenaire.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListeExercice.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListeMonnaie.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListePartenaire.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListePeriode.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\DonneesGeneraux\ListeTypePartenaire.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\EnregistrerRole.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\ConsulterListeRole.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\ModifierRole.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\EnregistrerUtilisateur.cshtml.g.cs
+C:\Users\LEONNEL SOFT\source\repos\Versionning Authentify\AutentifySolution\AutentifyAPI\obj\Debug\netcoreapp3.1\Razor\Views\GestionUtilisateurs\ConsulterListeUtilisateur.cshtml.g.cs

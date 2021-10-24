@@ -1,0 +1,117 @@
+﻿@model AutentifyAPI.ViewModels.AgenceVM
+@{
+    ViewData["Title"] = "Agence";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .form-group {
+        margin-bottom: 5px;
+        /* padding-left: 50px;*/
+    }
+</style>
+
+<nav aria-label="breadcrumb" class="nav-breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="Home/Index">Accueil</a></li>
+        <li class="breadcrumb-item"><a asp-controller="DonneesGeneraux" asp-action="ConsulterListeAgence">Gesion des agences</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Modifier </li>
+    </ol>
+</nav>
+
+<div class="row">
+
+    <div class="col-lg-12">
+
+        @using (Html.BeginForm("ModifierAgence", "DonneesGeneraux", FormMethod.Post, new { @class = "col-lg-12", enctype = "multipart/form-data" }))
+        {
+
+
+            <div class="row" style="margin-top:1em">
+                <div class="col-lg-4">
+                    <input type="hidden" value="@Model.AgenceId" asp-for="AgenceId" />
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Libelle) <span class=" fa fa-industry" aria-hidden="true">*</span>
+                        @Html.TextBoxFor(Model => Model.Libelle, new { @class = "form-control", required = "required", Value = "yooooooo" })
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Adresse)  <span class=" fa fa-map-signs" aria-hidden="true">.</span>
+                        @Html.TextBoxFor(Model => Model.Adresse, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Email)  <span class=" fa fa-envelope" aria-hidden="true">.</span>
+                        @Html.TextBoxFor(Model => Model.Email, new { @class = "form-control" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Image) <span class="fa fa-file" aria-hidden="true">*</span>
+                        @Html.TextBoxFor(Model => Model.Image, new { @class = "form-control", Type = "file" })
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        <label for="select" style="width:100%">** Villes ** <span class="requiredInput">*</span> </label>
+                        <select class="form-control" asp-for="VilleId">
+                            @foreach (var item in (List<AutentifyAPI.Models.Ville>)ViewBag.Ville)
+                            {
+                                <option value="@item.VilleId">@item.Nom</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="form-group">
+                        <label for="select" style="width:100%">** Société ** <span class="requiredInput">*</span> </label>
+                        <select class="form-control" asp-for="SocieteId">
+                            @foreach (var item in (List<AutentifyAPI.Models.Societe>)ViewBag.Societe)
+                            {
+                                <option value="@item.SocieteId">@item.Nom</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" style="margin-top:2em;">
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-outline-primary">
+                            <span><i class="fa fa-check-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="fa-hover col-md-2 col-sm-4 ">
+                    <div class="form-group">
+                        <button type="reset" class="btn btn-outline-primary">
+                            <span><i class="fa fa-times-circle-o"></i></span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+
+        }
+    </div>
+
+</div>
+
+<style>
+    .fa-check-circle-o {
+        color: #2da5d5;
+    }
+
+    .fa-times-circle-o {
+        color: #d81212;
+    }
+</style>
+
+
+
